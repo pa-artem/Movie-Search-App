@@ -1,3 +1,17 @@
 {
-  "Title": "Movies search"
+  "title": "Movies search",
+  "MovieCard": {
+    "minutes": "min"
+  },
+  "MoviesSearchForm": {
+    "movieTitle": "Movie title",
+    "search": "Search",
+    "searchQueryExample": "e.g. \"Harry Potter\""
+  },
+  "Rating": {
+    "rating": "Rating"
+  },
+  "LanguageSelect": {
+    "chooseYourLanguage": "Choose language"
+  }
 }

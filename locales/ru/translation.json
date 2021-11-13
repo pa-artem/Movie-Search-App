@@ -1,3 +1,17 @@
 {
-  "Title": "Поиск фильмов"
+  "title": "Поиск фильмов",
+  "MovieCard": {
+    "minutes": "мин."
+  },
+  "MoviesSearchForm": {
+    "movieTitle": "Название фильма",
+    "search": "Поиск",
+    "searchQueryExample": "Например, \"Гарри Поттер\""
+  },
+  "Rating": {
+    "rating": "Рейтинг"
+  },
+  "LanguageSelect": {
+    "chooseYourLanguage": "Выберите язык"
+  }
 }
