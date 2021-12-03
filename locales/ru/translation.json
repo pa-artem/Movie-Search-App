@@ -13,5 +13,9 @@
   },
   "LanguageSelect": {
     "chooseYourLanguage": "Выберите язык"
+  },
+  "ColorThemeSwitch": {
+    "switchToDarkMode": "Переключиться на тёмную тему",
+    "switchToLightMode": "Переключиться на светлую тему"
   }
 }
