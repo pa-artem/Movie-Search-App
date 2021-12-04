@@ -1,5 +1,6 @@
 {
   "title": "Поиск фильмов",
+  "loading": "Загрузка",
   "MovieCard": {
     "minutes": "мин."
   },

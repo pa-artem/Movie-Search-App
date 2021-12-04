@@ -1,5 +1,6 @@
 {
   "title": "Movies search",
+  "loading": "Loading",
   "MovieCard": {
     "minutes": "min"
   },
