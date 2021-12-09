@@ -24,5 +24,8 @@
   "QueryFallback": {
     "failedToQuery": "Failed to query movies",
     "tryAgain": "Try again"
+  },
+  "FavoriteMovies": {
+    "nothingHereYet": "Nothing here yet..."
   }
 }

@@ -24,5 +24,8 @@
   "QueryFallback": {
     "failedToQuery": "Ошибка при получении данных",
     "tryAgain": "Попробовать ещё раз"
+  },
+  "FavoriteMovies": {
+    "nothingHereYet": "Пока что здесь пусто..."
   }
 }
