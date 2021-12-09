@@ -1,6 +1,8 @@
 {
   "title": "Поиск фильмов",
   "loading": "Загрузка",
+  "searchRoute": "Поиск",
+  "favoritesRoute": "Избранное",
   "MovieCard": {
     "minutes": "мин."
   },
@@ -18,5 +20,9 @@
   "ColorThemeSwitch": {
     "switchToDarkMode": "Переключиться на тёмную тему",
     "switchToLightMode": "Переключиться на светлую тему"
+  },
+  "QueryFallback": {
+    "failedToQuery": "Ошибка при получении данных",
+    "tryAgain": "Попробовать ещё раз"
   }
 }

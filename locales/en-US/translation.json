@@ -1,5 +1,7 @@
 {
   "title": "Movies search",
+  "searchRoute": "Search",
+  "favoritesRoute": "Favorites",
   "loading": "Loading",
   "MovieCard": {
     "minutes": "min"
@@ -18,5 +20,9 @@
   "ColorThemeSwitch": {
     "switchToDarkMode": "Switch to dark mode",
     "switchToLightMode": "Switch to light mode"
+  },
+  "QueryFallback": {
+    "failedToQuery": "Failed to query movies",
+    "tryAgain": "Try again"
   }
 }
